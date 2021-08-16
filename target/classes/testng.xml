@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="eCommerce Application Test Automation Test Suite">
+
+	
+
+
+	<test name="FeCommerce App Test Cases">
+		<classes>
+		<class name="com.eCom.testcases.TC_LoginTest_001"></class>
+			<class name="com.eCom.testcases.TC_Admintest_003"></class>
+			<class name="com.eCom.testcases.TC_DashboardTest_002"></class>
+
+		</classes>
+	</test>
+</suite>
